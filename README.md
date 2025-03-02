@@ -28,7 +28,7 @@ The project delves into the core principles of **Object-Oriented Programming (OO
 ## **Introduction to Queues**
 A **queue** is a linear data structure that follows the **FIFO** (First In, First Out) principle:
 - Elements are added at the **end** (enqueue operation).
-- Elements are removed from the **front** (dequeue operation).
+- Elements are removed from the **front** (dequeue operation)
 
 Queues are foundational data structures used in many areas, including:
 - **Task Scheduling** (e.g., CPU processes or job scheduling in distributed systems).  
